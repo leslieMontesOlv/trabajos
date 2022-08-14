@@ -1,0 +1,33 @@
+body{
+    background-image: url(screens/cumple.jpg);
+    background-repeat: repeat;
+}
+h1{
+    background-color: aliceblue;
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+    border: 2px white;
+}
+p{
+    font-family: cursive;
+    background-color: aliceblue;
+}
+a{
+    background-color: red;
+    transition: background-color .5s;
+  }
+a:hover{
+    background-color: black;
+}
+#carta{
+    background-color: rgb(238, 222, 129);
+}
+#conejo{
+    width: 200px;
+    height: 200px;
+}
+#imag{
+    padding: 5px;
+    background-color: goldenrod;
+}
